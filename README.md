@@ -2,6 +2,6 @@
 Extract Profile Image from PDF files 
 
 # Run Command
-<b> python image_extraction.py <inputfile/inputdir>  <output> </b>
+<b> python image_extraction.py 'inputfile/inputdir>'  'outputdir' </b>
  
 
